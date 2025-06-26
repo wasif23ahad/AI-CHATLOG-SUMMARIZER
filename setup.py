@@ -5,11 +5,12 @@ base_path = r"F:\my_AI_Projects\JobAssesments\QtecSolutionLimited\AI_ChatLog_Sum
 
 # Defining internal folder and file structure
 structure = {
-    "chat_logs": {
-        "sample_chat.txt": """User: Hi, can you tell me about Python?
-AI: Sure! Python is a popular programming language known for its readability.
-User: What can I use it for?
-AI: You can use Python for web development, data analysis, AI, and more.
+    "sampleChatLog": {
+        "chat.txt": """User: Hello! 
+AI: Hi! How can I assist you today? 
+User: Can you explain what machine learning is? 
+AI: Certainly! Machine learning is a field of AI that allows systems to 
+learn from data.
 """
     },
     "main.py": "",
