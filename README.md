@@ -113,9 +113,11 @@ scikit-learn
 ---
 
 ### 📌 Notes
--TF-IDF automatically excludes common stop words.
--The script supports analyzing multiple chat files from a folder.
--We can customize sampleChatLog/ with our own .txt logs.
+
+- TF-IDF automatically excludes common stop words.
+- The script supports analyzing multiple chat files from a folder.
+- We can customize `sampleChatLog/` with our own `.txt` chat logs.
+
 
 ---
 
