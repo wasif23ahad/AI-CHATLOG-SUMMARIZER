@@ -103,6 +103,8 @@ python main.py
 - User messages: 3, AI messages: 3
 - Most common keywords: flask, database, django, feature, support
 
+---
+
 Summary for: chat.txt
 📄 
 ![Terminal Output](screenshots/Summary.png)
