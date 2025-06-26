@@ -23,8 +23,13 @@ AI_ChatLog_Summarizer/
 
 ---
 ### Text files is shown below
+Text file 1
 ![Alt Text](screenshots/chat.txt.png)
+
+Text file 2
 ![Alt Text](screenshots/chat2.txt.png)
+
+Text file 3
 ![Alt Text](screenshots/chat3.txt.png)
 
 ---
@@ -98,6 +103,8 @@ python main.py
 - User messages: 3, AI messages: 3
 - Most common keywords: flask, database, django, feature, support
 
+Summary for: chat.txt
+📄 
 ![Terminal Output](screenshots/Summary.png)
 
 
