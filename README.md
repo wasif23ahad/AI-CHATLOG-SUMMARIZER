@@ -6,7 +6,7 @@ This is a Python-based tool that reads `.txt` chat logs between a **User** and a
 - Number of messages from User vs. AI
 - Top 5 most relevant keywords using TF-IDF
 
-> Built for the **Junior Python Developer (AI-focused)** assessment at Qtec Solution Limited.
+> Built for the **Junior Python Developer (AI-focused)** assessment at Qtec Solution Limited by Mohammad Wasif Ahad 
 
 ---
 
