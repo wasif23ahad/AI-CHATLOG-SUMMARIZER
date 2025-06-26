@@ -1,0 +1,6 @@
+User: I want to build a website.
+AI: Great! You can use frameworks like Django or Flask in Python.
+User: Which one is better for beginners?
+AI: Flask is simpler and good for small apps, Django is more feature-rich for larger projects.
+User: Can I connect it to a database?
+AI: Yes, both support databases like SQLite and PostgreSQL.

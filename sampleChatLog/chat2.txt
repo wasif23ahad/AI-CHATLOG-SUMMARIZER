@@ -1,0 +1,6 @@
+User: What is natural language processing?
+AI: NLP is a branch of AI that helps computers understand human language.
+User: Can it translate languages?
+AI: Yes, NLP powers translation tools like Google Translate.
+User: What libraries are used in Python for NLP?
+AI: Popular NLP libraries in Python include NLTK and spaCy.

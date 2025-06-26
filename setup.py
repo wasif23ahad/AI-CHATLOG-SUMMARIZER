@@ -43,4 +43,4 @@ def create_structure(base, struct):
 
 if __name__ == "__main__":
     create_structure(base_path, structure)
-    print("\n✅ Project files created successfully inside your existing folder!")
+    print("\nProject files created successfully inside your existing folder!")
