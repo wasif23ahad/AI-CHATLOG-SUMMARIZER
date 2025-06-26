@@ -12,14 +12,7 @@ This is a Python-based tool that reads `.txt` chat logs between a **User** and a
 
 ## 📁 Project Overview
 
-AI_ChatLog_Summarizer/
-├── sampleChatLog/
-│ ├── chat.txt
-│ ├── chat2.txt
-│ └── chat3.txt
-├── main.py
-├── requirements.txt
-└── setup.py
+<pre> AI_ChatLog_Summarizer/ ├── sampleChatLog/ │ ├── chat.txt │ ├── chat2.txt │ └── chat3.txt ├── main.py ├── requirements.txt └── setup.py </pre>
 
 ---
 ### Text files is shown below
@@ -102,19 +95,14 @@ python main.py
 - Total messages: 6
 - User messages: 3, AI messages: 3
 - Most common keywords: flask, database, django, feature, support
-```
+
 ---
 
 Summary for: chat.txt
 📄 
 ![Terminal Output](screenshots/Summary.png)
 
-
-
-```
----
- 
-### 📦 Dependencies
+📦 Dependencies
 Python 3.10
 nltk
 scikit-learn 
@@ -130,3 +118,5 @@ scikit-learn
 
 ### 📌 Author
 Mohammad Wasif Ahad Linkedin: https://www.linkedin.com/in/wasifahad/ Github: https://github.com/wasif23ahad
+
+ 
