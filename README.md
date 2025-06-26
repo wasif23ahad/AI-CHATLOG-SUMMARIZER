@@ -99,7 +99,7 @@ python main.py
 
 ---
 
-Summary for: chat.txt
+### Summary for: chat.txt
 📄 
 ![Terminal Output](screenshots/Summary.png)
 
